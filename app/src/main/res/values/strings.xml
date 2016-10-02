@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 5</string>
+    <string name="generate_db">Generate Database</string>
+    <string name="load_db">Load Data</string>
+    <string name="price">Price:</string>
+    <string name="rating">Rating:</string>
+    <string name="waiting">Waiting for details</string>
+    <string name="image">image</string>
+</resources>
